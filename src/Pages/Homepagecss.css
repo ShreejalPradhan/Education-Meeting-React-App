@@ -1,0 +1,8 @@
+video{
+    width: 100vw;
+    object-fit: contain;
+}
+
+.video-bg{
+    background: linear-gradient(rbga(0,0,0,0.7), rbga(0,0,0,0.7)) url("https://themewagon.github.io/edu-meeting/assets/images/course-video.mp4");
+}
